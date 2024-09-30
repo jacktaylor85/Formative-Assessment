@@ -12,6 +12,7 @@ The core features of this site are:
   - This includes links
   - A dropdown menu is used for smaller screen sizes so they are still able to access the links
   - Allows for easy access
+  - These are dummy links they have no href therefore it will keep you on the home page
 
 - __Woman Image Section__
   - This breaks up the screen and creates a connection between content and the navbar
