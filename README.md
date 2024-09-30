@@ -28,11 +28,11 @@ The core features of this site are:
 ## User Experience ##
 Desktop View of the website
 
-![Desktop View](../Formative-Assessment/assets/images/Screenshot%202024-09-30%20111809.png)
+![Desktop View](/images/Screenshot%202024-09-30%20111809.png)
 
 Mobile View of the website
 
-![Mobile View](../Formative-Assessment/assets/images/Screenshot%202024-09-30%20112052.png)
+![Mobile View](/assets/images/Screenshot%202024-09-30%20112052.png)
 ## User Stories ##
 
 ### *Access To Self-Help Resources* ###
