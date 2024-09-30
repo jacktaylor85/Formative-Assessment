@@ -70,3 +70,6 @@ This collection of resources has been crucial to the success of this site:
 - [Favicon](https://favicon.io)
 - [ChatGPT](https://openai.com/chatgpt/)
 - [Large Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fwoman-talking-therapist_54191115.htm&psig=AOvVaw0DUw-2CqEtji5JdxnZN3X6&ust=1727786928349000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCPC57ILa6ogDFQAAAAAdAAAAABAE)
+- [NHS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjgqIaZ7uqIAxUv9LsIHer_ATAQFnoECAkQAQ&url=https%3A%2F%2Fwww.nhs.uk%2Fnhs-services%2Fmental-health-services%2F&usg=AOvVaw1_cpejSeCBUZp2ZgRdF5pz&opi=89978449)
+- [HeadSpace](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi4jL-o7uqIAxXJloMHHYm8IaYYABAAGgJlZg&ae=2&co=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapU7BHVeLZGetLrKF9MUOzniguIbykm2MwiNNxJIdJsXn4sJRhu3LOAaAqocEALw_wcB&ohost=www.google.com&cid=CAESVuD2E5l8gP0BJwHv4dfbNb_hh3vJQMEQQSlp_ak9gu1X80KPCLvnlj1c4yCDpc3fkh4zvTDl9w6B5K8TF10lRFmQkC1zaqd59cZFtLJVT27leF03ji37&sig=AOD64_2EC6D6QCqbFFbBEBk7Ug_zRqV26w&q&adurl&ved=2ahUKEwidi7io7uqIAxWMg_0HHbr3CcUQ0Qx6BAgJEAE)
+- [YoungMinds](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiHqpu87uqIAxXCgf0HHVIhInYQFnoECAcQAQ&url=https%3A%2F%2Fwww.youngminds.org.uk%2F&usg=AOvVaw0qc_gIkPPl15nzAnIAkUln&opi=89978449)
