@@ -74,6 +74,12 @@
 
 
 /* Body */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 
 #woman-image {
     height: 800px;
@@ -85,7 +91,7 @@
 #mental-health h2 {
     width: 90%;
     padding-top: 20px;
-    padding-left: 10px;
+    padding-left: 30px;
     font-family: "Roboto", sans-serif;
     text-align: center;
 }
@@ -97,6 +103,7 @@
 
 }
 /* Footer */
-.container {
-
+.footer {
+  margin-top: auto;
 }
+
