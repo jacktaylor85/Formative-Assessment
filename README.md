@@ -41,3 +41,4 @@ This site was deployed through [GitHub](https://github.com).
 This collection of resources has been crucial to the success of this site:
 - [Claude AI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL_sntr-qIAxWJQkEAHaRwCIkQFnoECAkQAQ&url=https%3A%2F%2Fclaude.ai%2F&usg=AOvVaw2e9nJiB56fxuZtuB3NvSvX&opi=89978449)
 - [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Balsamiq](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjFjrzkuuqIAxXso1AGHV7DKHwYABAAGgJkZw&ae=2&co=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapU4YSXci5yx-z5CoB0sy1BdT06FtcHm1lbcs6so4oqQeuFCO_ZjDTAaAtOqEALw_wcB&ohost=www.google.com&cid=CAESVuD2QHqr96cVPjs-94X_uG4SlO0kN6MX7viZpp6oCldAtFnAxoXCxWuQjpoBDvhqcxHwPHYT87dVcdBJ1slaeYr3xEOJYNyr-_R0wYpSe3vruU4CwZ-Q&sig=AOD64_3zVzBAoZbC7UEIFCMVAmTwioXvcA&q&adurl&ved=2ahUKEwjBkLfkuuqIAxVraEEAHeQ9FyQQ0Qx6BAgKEAE)
