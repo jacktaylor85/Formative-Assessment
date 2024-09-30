@@ -55,3 +55,4 @@ This collection of resources has been crucial to the success of this site:
 - [Google Fonts](https://fonts.google.com)
 - [Font Awesome](https://fontawesome.com)
 - [Favicon](https://favicon.io)
+- [ChatGPT](https://openai.com/chatgpt/)

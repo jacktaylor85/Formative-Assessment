@@ -23,7 +23,7 @@
     align-items: center;
     /* Vertically centers items */
     padding: 10px;
-    background-color: #333;
+    background-color: rgba(137, 207, 240, 0.3);
     /* Navbar background */
 }
 
@@ -71,6 +71,7 @@
     display: block;
     /* Show on hover */
 }
+
 
 /* Body */
 
