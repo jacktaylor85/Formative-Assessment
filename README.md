@@ -7,9 +7,22 @@ MindWell aims to empower users to take control of their mental health journey, o
 ## Features ##
 The core features of this site are:
 
-- ...
-- ...
-- ...
+- __Navigation Bar__
+  - Featured at the top of the page
+  - This includes links
+  - A dropdown menu is used for smaller screen sizes so they are still able to access the links
+  - Allows for easy access
+
+- __Woman Image Section__
+  - This breaks up the screen and creates a connection between content and the navbar
+
+- __Mental Health Section__
+  - This includes the base content for the webpage and helps fill the content criteria
+  - This is crucial to provide some information to the general audience this website caters to
+  
+- __Footer__
+  - This includes copyright and links
+  - These links extend to the social media pages that are currently blank links
 
 ## User Experience ##
 Desktop View of the website
