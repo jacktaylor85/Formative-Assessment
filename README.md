@@ -56,3 +56,4 @@ This collection of resources has been crucial to the success of this site:
 - [Font Awesome](https://fontawesome.com)
 - [Favicon](https://favicon.io)
 - [ChatGPT](https://openai.com/chatgpt/)
+- [Large Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fwoman-talking-therapist_54191115.htm&psig=AOvVaw0DUw-2CqEtji5JdxnZN3X6&ust=1727786928349000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCPC57ILa6ogDFQAAAAAdAAAAABAE)
