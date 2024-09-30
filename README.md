@@ -11,7 +11,7 @@ The core features of this site are:
 - ...
 - ...
 
-## Design ##
+## User Experience ##
 Desktop View of the website
 
 ![Desktop View](../Formative-Assessment/assets/images/Screenshot%202024-09-30%20111809.png)
@@ -29,6 +29,14 @@ So that I can learn coping strategies.
 - This would be for people who are struggling to manage their symptoms and looking for solutions to short-term problems relevant to their afflictions.
 - This could include links to other sites that are verified and give a description of what these links will do for the user and this will aim to provide the most beneficial service.
 - This will need to be concise and allow the most stress-free experience as our goal is to minimise symptoms efficiently. 
+
+## Technologies ##
+The technologies used for creating this project were:
+- HTML
+- CSS
+- Bootstrap
+- Markdown
+
 
 ## Deployment ##
 This site was deployed through [GitHub](https://github.com).

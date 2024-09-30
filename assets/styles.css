@@ -1,2 +1,77 @@
 /* Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* Colours */
+
+/* Header */
+.navbar-brand {
+    flex: 1;
+    /* Allow the brand to take up available space */
+    text-align: center;
+    /* Center text within the brand */
+    color: #000000;
+    /* Brand text color */
+    font-size: 30px;
+    /* Adjust font size */
+    font-weight: 500;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    /* Adjusts space between items */
+    align-items: center;
+    /* Vertically centers items */
+    padding: 10px;
+    background-color: #333;
+    /* Navbar background */
+}
+
+.brand-icon {
+    max-width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+    width: 30px; /* Set a base width */
+    margin-right: 8px; /* Space between icon and text */
+    vertical-align: middle; /* Align with text */
+}
+
+.nav-links {
+    display: flex;
+    /* Make the nav links horizontal */
+    list-style-type: none;
+    /* Remove bullet points */
+    margin: 0;
+    /* Remove default margin */
+    padding: 0;
+    /* Remove default padding */
+}
+
+.nav-links li {
+    margin: 0 15px;
+    /* Space between links */
+}
+
+.dropdown {
+    margin-left: auto;
+    /* Pushes the dropdown to the end */
+}
+
+.dropdown-menu {
+    display: none;
+    /* Initially hide the dropdown menu */
+    position: absolute;
+    /* Position dropdown */
+    background-color: white;
+    /* Background of dropdown */
+    border: 1px solid #ccc;
+    /* Border for dropdown */
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    /* Show on hover */
+}
+
+/* Body */
+
+/* Footer */
