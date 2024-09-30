@@ -28,7 +28,7 @@ The core features of this site are:
 ## User Experience ##
 Desktop View of the website
 
-![Desktop View](/images/Screenshot%202024-09-30%20111809.png)
+![Desktop View](/assets/images/Screenshot%202024-09-30%20111809.png)
 
 Mobile View of the website
 
