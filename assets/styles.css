@@ -89,18 +89,33 @@ body {
 }
 
 #mental-health h2 {
-    width: 90%;
+    width: 100%;
     padding: 20px;
     font-family: "Roboto", sans-serif;
     text-align: center;
 }
 
 #mental-health p {
-    width: 90%;
-    padding-left: 10px;
+    width: 100%;
+    padding: 10px;
     font-family: "Roboto", sans-serif;
 
 }
+
+#support-group h2 {
+    width: 100%;
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+#support-group p {
+    width: 100%;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+
+}
+
 /* Footer */
 .footer {
   margin-top: auto;
