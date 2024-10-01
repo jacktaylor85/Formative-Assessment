@@ -5,7 +5,7 @@ MindWell is a comprehensive online platform dedicated to promoting mental health
 
 MindWell aims to empower users to take control of their mental health journey, offering support for those dealing with specific mental health conditions as well as those looking to maintain and improve their overall emotional wellbeing.
 
-[Live Site link]()
+[Live Site link](https://jacktaylor85.github.io/Formative-Assessment/)
 ## Features ##
 The core features of this site are:
 
@@ -83,7 +83,7 @@ This site was deployed through [GitHub](https://github.com).
 - You must press the green [New](https://github.com/new) button on the left-hand side of the homepage to open a repository
 - Then you will look to create a repository. 
 - This link to this repository can then be opened on GitPod. 
-- The live link for this site can be opened here. [Click Here](https://github.com/jacktaylor85/Formative-Assessment)
+- The live link for this site can be opened here. [Click Here](https://jacktaylor85.github.io/Formative-Assessment/)
 
 ## Credits ##
 - [Claude AI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL_sntr-qIAxWJQkEAHaRwCIkQFnoECAkQAQ&url=https%3A%2F%2Fclaude.ai%2F&usg=AOvVaw2e9nJiB56fxuZtuB3NvSvX&opi=89978449)
