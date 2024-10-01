@@ -37,15 +37,37 @@ Mobile View of the website:
 ![Mobile View](/assets/images/Screenshot%202024-09-30%20112052.png)
 ## User Stories ##
 
-### *Access To Self-Help Resources* ###
-As a person experiencing anxiety,
-I want to access self-help resources,
-So that I can learn coping strategies.
+### *Access To Self-Help Resources (Must)* ###
+As a person experiencing anxiety,<br/>I want to access self-help resources,<br/>So that I can learn coping strategies.
 
 #### Criteria and Information: ####
 - This would be for people who are struggling to manage their symptoms and looking for solutions to short-term problems relevant to their afflictions.
 - This could include links to other sites that are verified and give a description of what these links will do for the user and this will aim to provide the most beneficial service.
 - This will need to be concise and allow the most stress-free experience as our goal is to minimise symptoms efficiently. 
+- This is included in the dropdown menu in the navbar.
+
+### *Access To Social Links For Easy Access (Should)* ###
+As a visitor to the mental health website,<br/>
+I want to see clearly visible social media links,<br/>
+So that I can easily follow, share, and connect with the platform on social media for support and updates.
+
+#### Criteria and Information: ####
+  - Social media icons (e.g., Facebook, Instagram, Twitter,) should be placed in the header and footer of the website.
+  - Links should open in new tabs to avoid navigating users away from the site.
+  - Icons should be visually distinct and consistent with the website’s branding.
+  - Links should lead directly to the mental health platform's official social media accounts.
+  - The presence of social links should be responsive and accessible across mobile and desktop versions.
+
+  ### *Joining A Support Group (Could)* ###
+As a user looking for community support,<br/>
+I want to find and join a mental health support group,<br/>
+So that I can connect with others who share similar experiences.
+
+#### Criteria and Information: ####
+  - A page or section dedicated to listing support groups by topic.
+  - Ability to join virtual groups through video chat or forum-based discussions.
+  - Clear schedules for group meetings and instructions for joining.
+  - Moderation of groups to ensure a safe and supportive environment.
 
 ## Technologies ##
 The technologies used for creating this project were:
